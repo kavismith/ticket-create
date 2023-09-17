@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -42,7 +38,7 @@ Open up the link that end users link use to create tickets. We are going to crea
 
 ![image](https://github.com/kavismith/ticket-create/assets/143667203/a555d862-3c0c-479a-82fd-093e6384a2e7)
 
-Next, create a Ticket from Kqen Ken.
+Next, create a Ticket from Ken Ken.
 - Email: ken@osticket.com
 - Full Name: Ken Ken
 - Help Topic: Personal Computer Issues
@@ -77,7 +73,7 @@ We are going to log into osTicket as a hlep desk Agent who trouble shoots and so
   -Priority: Emergency
   - Assign the ticket: Jane Carter
   - Set the SLA Plan: SEV-A
-  - Department: Sys8tem Administrator- Syst admins responsible for mobile banking infranstructure 
+  - Department: System Administrator- Syst admins responsible for mobile banking infranstructure 
  
  ![image](https://github.com/kavismith/ticket-create/assets/143667203/9c7108a5-2978-415d-bb61-eadd0975e786)
  
